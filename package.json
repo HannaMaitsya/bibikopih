@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "comment": "Proyek ini tidak memakai build tool. CSS & JS disajikan langsung dari public/css/style.css dan public/js/app.js.",
+    "scripts": {},
+    "devDependencies": {}
+}
